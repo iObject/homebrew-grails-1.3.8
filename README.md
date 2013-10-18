@@ -16,7 +16,7 @@ Step 3)
 Rejoice!
 
 
-*Note: You only need to do this once. Homebrew lets you switch between already installed versions easily.
-Example:
-$ brew swicth grails 1.3.8 //Switches you to 1.3.8
+<b>*Note: You only need to do this once. Homebrew lets you switch between already installed versions easily.</b><br/>
+Example:<br/>
+$ brew swicth grails 1.3.8 //Switches you to 1.3.8<br/>
 $ brew switch grails 2.2.2 //Switches you to 2.2.2
